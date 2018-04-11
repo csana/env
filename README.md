@@ -1,6 +1,6 @@
 # My environment settings
 
-Curently it's conatin my bashrc 
+Curently it's conatin my bashrc only
 
 ## Usage
 
